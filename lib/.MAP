@@ -1,0 +1,15 @@
+D LIBCURSE                          	libcurses
+D LIBDBM                            	libdbm
+D LIBF77                            	libF77
+D LIBG                              	libg
+D LIBI77                            	libI77
+D LIBI77UC                          	libI77uc
+D LIBJOBS                           	libjobs
+D LIBLN                             	libln
+D LIBM                              	libm
+D LIBMP                             	libmp
+D LIBNM                             	libnm
+D LIBPC                             	libpc
+D LIBPLOT                           	libplot
+D LIBTERML                          	libtermlib
+F MAKE.;1                           	MAKE

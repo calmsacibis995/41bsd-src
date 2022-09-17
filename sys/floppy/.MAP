@@ -1,0 +1,15 @@
+F ANYBOO.CMD;1                      	anyboo.cmd
+F BOOT.;1                           	boot
+F BTAPE.;1                          	btape
+F CAT.;1                            	cat
+F DEFBOO.CMD;1                      	defboo.cmd
+F DUMP.;1                           	dump
+F ICHECK.;1                         	icheck
+F LS.;1                             	ls
+F MKFS.;1                           	mkfs
+F RESTAR.CMD;1                      	restar.cmd
+F RESTOR.;1                         	restor
+F RPMBOO.CMD;1                      	rpmboo.cmd
+F RPSBOO.CMD;1                      	rpsboo.cmd
+F UPMBOO.CMD;1                      	upmboo.cmd
+F UPSBOO.CMD;1                      	upsboo.cmd

@@ -1,0 +1,6 @@
+D CRT                               	crt
+D CSU                               	csu
+D GEN                               	gen
+F MAKEFILE.;1                       	Makefile
+D STDIO                             	stdio
+D SYS                               	sys

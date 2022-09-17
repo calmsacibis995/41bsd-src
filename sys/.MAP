@@ -1,0 +1,8 @@
+D CONF                              	conf
+D DEV                               	dev
+D FLOPPY                            	floppy
+D H                                 	h
+D NEWDEV                            	newdev
+D NEWSYS                            	newsys
+D STAND                             	stand
+D SYS                               	sys

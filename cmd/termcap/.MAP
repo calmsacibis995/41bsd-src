@@ -1,0 +1,6 @@
+F MAKEFILE.;1                       	makefile
+F READ_ME.;1                        	READ_ME
+F REORDER.;1                        	reorder
+D TABSET                            	tabset
+F TERMCAP.OBJ;1                     	termcap.obj
+F TERMCAP.SRC;1                     	termcap.src

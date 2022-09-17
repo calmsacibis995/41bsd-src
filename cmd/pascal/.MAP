@@ -1,0 +1,16 @@
+F HOW_PC.;1                         	how_pc
+F HOW_PI.;1                         	how_pi
+F HOW_PIX.;1                        	how_pix
+F HOW_PXP.;1                        	how_pxp
+F MAKEFILE.;1                       	makefile
+F OBJFMT.H;1                        	objfmt.h
+F PC.C;1                            	pc.c
+F PC2.C;1                           	pc2.c
+F PC3.C;1                           	pc3.c
+F PC3.H;1                           	pc3.h
+F PIX.C;1                           	pix.c
+F PSTAB.H;1                         	pstab.h
+F PXREF.P;1                         	pxref.p
+F PX_HEADE.C;1                      	px_header.c
+F READ_ME.;1                        	READ_ME
+F WHOAMI.H;1                        	whoami.h

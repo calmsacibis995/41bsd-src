@@ -1,0 +1,10 @@
+D AARD                              	aard
+F ARITHMET.C;1                      	arithmetic.c
+F BANNER.C;1                        	banner.c
+F BCD.C;1                           	bcd.c
+F CHESS.C;1                         	chess.c
+D COMPAT                            	compat
+D FORTUNE                           	fortune
+F NUMBER.C;1                        	number.c
+F QUIZ.C;1                          	quiz.c
+F ZORK.C;1                          	zork.c

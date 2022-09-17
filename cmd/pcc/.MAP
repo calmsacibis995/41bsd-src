@@ -1,0 +1,15 @@
+F :ROFIX.;1                         	:rofix
+F :YYFIX.;1                         	:yyfix
+F CODE.C;1                          	code.c
+F FORT.H;1                          	fort.h
+F INDEX.;1                          	INDEX
+F LOCAL.C;1                         	local.c
+F LOCAL2.C;1                        	local2.c
+F MAC2DEFS.;1                       	mac2defs
+F MACDEFS.;1                        	macdefs
+F MAKEFILE.;1                       	makefile
+F ORDER.C;1                         	order.c
+F TABLE.C;1                         	table.c
+F UCLOCAL2.C;1                      	UClocal2.c
+F UCTABLE.C;1                       	UCtable.c
+D VMS                               	VMS

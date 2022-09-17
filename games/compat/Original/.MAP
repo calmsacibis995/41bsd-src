@@ -1,0 +1,4 @@
+F COMPAT.S;1                        	compat.s
+F DOSIG.C;1                         	dosig.c
+F MAKEFILE.;1                       	Makefile
+F RUNCOMPA.C;1                      	runcompat.c

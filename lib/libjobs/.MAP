@@ -1,0 +1,7 @@
+F GETWD.C;1                         	getwd.c
+F KILLPG.S;1                        	killpg.s
+F MAKEFILE.;1                       	makefile
+F SETPGRP.S;1                       	setpgrp.s
+F SIGNAL.S;1                        	signal.s
+F SIGSET.C;1                        	sigset.c
+F WAIT3.S;1                         	wait3.s

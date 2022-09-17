@@ -1,0 +1,13 @@
+F CADR.L;1                          	cadr.l
+F CAMACS.L;1                        	camacs.l
+F CAR.L;1                           	car.l
+F CASPECS.L;1                       	caspecs.l
+F CDDR.L;1                          	cddr.l
+D DOC                               	doc
+F FULLDOIT.L;1                      	fulldoit.l
+F LTAGS.;1                          	ltags
+F LXREF.L;1                         	lxref.l
+F MAKEFILE.;1                       	Makefile
+F MYDOIT.L;1                        	mydoit.l
+F TOPLEVEL.L;1                      	toplevel.l
+F UCTOLC.C;1                        	uctolc.c

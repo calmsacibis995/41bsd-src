@@ -1,0 +1,14 @@
+F CATCHFRA.H;1                      	catchfram.h
+F CHARS.H;1                         	chars.h
+F CHKRTAB.H;1                       	chkrtab.h
+F CONFIG.H;1                        	config.h
+F DFUNCS.H;1                        	dfuncs.h
+F FRAME.H;1                         	frame.h
+F GLOBAL.H;1                        	global.h
+F GTABS.H;1                         	gtabs.h
+F LFUNCS.H;1                        	lfuncs.h
+F NAOUT.H;1                         	naout.h
+F OAOUT.H;1                         	oaout.h
+F SIGTAB.H;1                        	sigtab.h
+F STRUCTS.H;1                       	structs.h
+F TYPES.H;1                         	types.h
